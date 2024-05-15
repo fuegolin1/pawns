@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>pawns</title>
+    <script src="js/signalr.js"></script>
+</head>
+<style>
+    body, html {
+        margin: 0;
+        padding: 0;
+    }
+</style>
+<body>
+    <img style="visibility:hidden;display:none;" src="assets/redBlueGreenPawn.png" id="allPawns" />
+    <canvas id="gamescreen">You're browser does not support HTML5.</canvas>
+    <div style="padding:8px"><label for="uuid">UUID:</label>
+        <input type="text" id="uuid" size="50"/>
+        <button onclick="genUuid()">Gen/Set UUID</button>
+    </div>
+    <script src="js/pawns.js"></script>
+</body>
+</html>

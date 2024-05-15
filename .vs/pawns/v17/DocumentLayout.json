@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SignalR\\pawns_v006\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1596E120-FB9B-45F6-8E70-D6E7ED0CEC99}|pawns.csproj|d:\\signalr\\pawns_v006\\wwwroot\\js\\pawns.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1596E120-FB9B-45F6-8E70-D6E7ED0CEC99}|pawns.csproj|solutionrelative:wwwroot\\js\\pawns.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1596E120-FB9B-45F6-8E70-D6E7ED0CEC99}|pawns.csproj|d:\\signalr\\pawns_v006\\hubs\\pawnhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1596E120-FB9B-45F6-8E70-D6E7ED0CEC99}|pawns.csproj|solutionrelative:hubs\\pawnhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1596E120-FB9B-45F6-8E70-D6E7ED0CEC99}|pawns.csproj|d:\\signalr\\pawns_v006\\pawns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1596E120-FB9B-45F6-8E70-D6E7ED0CEC99}|pawns.csproj|solutionrelative:pawns.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pawns.js",
+              "DocumentMoniker": "D:\\SignalR\\pawns_v006\\wwwroot\\js\\pawns.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\pawns.js",
+              "ToolTip": "D:\\SignalR\\pawns_v006\\wwwroot\\js\\pawns.js",
+              "RelativeToolTip": "wwwroot\\js\\pawns.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-15T19:35:41.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PawnHub.cs",
+              "DocumentMoniker": "D:\\SignalR\\pawns_v006\\Hubs\\PawnHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\PawnHub.cs",
+              "ToolTip": "D:\\SignalR\\pawns_v006\\Hubs\\PawnHub.cs",
+              "RelativeToolTip": "Hubs\\PawnHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:35:25.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pawns",
+              "DocumentMoniker": "D:\\SignalR\\pawns_v006\\pawns.csproj",
+              "RelativeDocumentMoniker": "pawns.csproj",
+              "ToolTip": "D:\\SignalR\\pawns_v006\\pawns.csproj",
+              "RelativeToolTip": "pawns.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T19:34:25.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

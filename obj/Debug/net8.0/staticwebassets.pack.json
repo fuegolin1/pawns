@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SignalR\\pawns_v006\\wwwroot\\assets\\redBlueGreenPawn.png",
+      "PackagePath": "staticwebassets\\assets\\redBlueGreenPawn.png"
+    },
+    {
+      "Id": "D:\\SignalR\\pawns_v006\\wwwroot\\index.htm",
+      "PackagePath": "staticwebassets\\index.htm"
+    },
+    {
+      "Id": "D:\\SignalR\\pawns_v006\\wwwroot\\js\\pawns.js",
+      "PackagePath": "staticwebassets\\js\\pawns.js"
+    },
+    {
+      "Id": "D:\\SignalR\\pawns_v006\\wwwroot\\js\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.pawns.props",
+      "PackagePath": "build\\pawns.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.pawns.props",
+      "PackagePath": "buildMultiTargeting\\pawns.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.pawns.props",
+      "PackagePath": "buildTransitive\\pawns.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.pawns.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
